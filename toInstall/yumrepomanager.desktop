@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System
+Comment[en_US]=
+Comment=
+Exec=kdesu --noignorebutton -n -c yumrepomanager
+GenericName[en_US]=YUM Configuration Manager
+GenericName=YUM Configuration Manager
+Icon=yumrepomanager
+MimeType=
+Name[en_US]=YUMRepoManager
+Name=YUMRepoManager
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

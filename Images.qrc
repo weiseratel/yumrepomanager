@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Images/About.png</file>
+        <file>Images/Add.png</file>
+        <file>Images/Close.png</file>
+        <file>Images/Edit.png</file>
+        <file>Images/Exit.png</file>
+        <file>Images/Failed.png</file>
+        <file>Images/OK.png</file>
+        <file>Images/Qt.png</file>
+        <file>Images/CreateRepository.gif</file>
+        <file>Images/GlobalOptions.png</file>
+        <file>Images/Plugins.png</file>
+        <file>Images/Preferences.png</file>
+        <file>Images/Remove.png</file>
+        <file>Images/Save.png</file>
+        <file>Images/SetColor.png</file>
+        <file>Images/Undo.png</file>
+        <file>Images/Update.png</file>
+        <file>Images/Filter.png</file>
+        <file>Images/Import.png</file>
+        <file>Images/SpanishFlag.png</file>
+        <file>Images/EnglishFlag.png</file>
+        <file>Images/Arguments.png</file>
+        <file>Images/Refresh.png</file>
+        <file>Images/Export.png</file>
+        <file>Images/yumrepomanager.png</file>
+        <file>Images/RPMPackage.png</file>
+    </qresource>
+</RCC>
